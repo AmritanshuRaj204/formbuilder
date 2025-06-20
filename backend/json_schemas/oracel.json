@@ -1,0 +1,23 @@
+{
+  "framework": "oracel",
+  "description": "dsfs",
+  "fields": [
+    {
+      "key": "sfd",
+      "label": "dsf",
+      "type": "number",
+      "defaultValue": null,
+      "mandatory": true,
+      "editable": false,
+      "regex": null,
+      "options": null,
+      "tooltip": null,
+      "description": null,
+      "allowUserAddition": false,
+      "mandatoryIf": null,
+      "visibleIf": null
+    }
+  ],
+  "mapSections": [],
+  "extraProperties": []
+}

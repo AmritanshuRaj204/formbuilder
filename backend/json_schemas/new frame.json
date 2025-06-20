@@ -1,0 +1,38 @@
+{
+  "framework": "new frame",
+  "description": "yess desc",
+  "fields": [
+    {
+      "key": "sfd",
+      "label": "dsdss",
+      "type": "text",
+      "defaultValue": "sd",
+      "mandatory": true,
+      "editable": true,
+      "regex": null,
+      "options": null,
+      "tooltip": null,
+      "description": null,
+      "allowUserAddition": false,
+      "mandatoryIf": null,
+      "visibleIf": null
+    },
+    {
+      "key": "new 2",
+      "label": "new  2 label",
+      "type": "text",
+      "defaultValue": null,
+      "mandatory": false,
+      "editable": true,
+      "regex": null,
+      "options": null,
+      "tooltip": null,
+      "description": null,
+      "allowUserAddition": false,
+      "mandatoryIf": null,
+      "visibleIf": null
+    }
+  ],
+  "mapSections": [],
+  "extraProperties": []
+}
